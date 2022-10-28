@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666997278 source:c:\users\andre\onedrive\escritorio\programas_estrucuturas\tarea8_parcial2_tiemposdeordenacion\main.c
+	<stdio.h>
+	<time.h>
+
